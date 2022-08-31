@@ -21,6 +21,6 @@ def final_funct(x):
             return counter
         counter += 1
         
-print(final_funct(200))
+print(final_funct(10001))
 
 print(prime_or_not(104743))
